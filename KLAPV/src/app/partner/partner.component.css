@@ -1,0 +1,17 @@
+img{
+    width: min(500px, 100%);
+    height: min(1024px, 100vh);
+    background-color: #d9ead3; /* Cor de fundo destacada */
+}
+
+hr {
+    border: none;
+    height: 10px;
+    background-color: #2E8B57; 
+   
+}
+
+section{
+    background-color: #d9ead3; /* Cor de fundo destacada */
+}
+

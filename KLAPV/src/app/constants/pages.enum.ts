@@ -1,0 +1,7 @@
+export enum pages {
+    QUEM_SOMOS = 'QUEM SOMOS',
+    SEJA_NOSSO_PARCEIRO = 'SEJA NOSSO PARCEIRO',
+    ADDRESS = 'ADDRESS',
+    CONTACT = 'CONTACT',
+  }
+  
