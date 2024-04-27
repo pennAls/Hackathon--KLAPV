@@ -2,26 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.13.
 
-## Development server
+#Projeto Empresa Sustentável - KLAPV
+Este projeto visa contribuir para um mundo mais sustentável, coletando resíduos orgânicos de estabelecimentos comerciais e fornecendo-os para empresas que os convertem em novos formatos de energia, como gás e energia elétrica.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+#Missão
+A missão deste projeto é:
 
-## Code scaffolding
+.Contribuir para um mundo mais sustentável através da coleta de resíduos orgânicos de estabelecimentos comerciais.
+.Fornecer esses resíduos para empresas especializadas, que os transformam em novos formatos de energia, como gás de cozinha e energia elétrica.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+#Executando o Projeto Angular
+Para executar este projeto Angular localmente em seu ambiente de desenvolvimento, siga estas etapas:
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1.Clone ou baixe o projeto: Você pode clonar o repositório deste projeto usando o seguinte comando no terminal:
+![image](https://github.com/pennAls/Hackathon--KLAPV/assets/143518683/3a4f4807-6b58-4f13-8776-1577532149fa)
